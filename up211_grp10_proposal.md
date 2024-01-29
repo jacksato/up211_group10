@@ -21,23 +21,23 @@ We also plan to look at a 10-year period—while specifically looking at the cha
  
  
 **Source:** Urban Displacement Project
-**Source Link:** [](https://www.urbandisplacement.org/maps/california-estimated-displacement-risk-model/)
+**Source Link:** [https://www.urbandisplacement.org/maps/california-estimated-displacement-risk-model/](https://www.urbandisplacement.org/maps/california-estimated-displacement-risk-model/)
 **Description:** The California Estimated Displacement Risk Model from the Urban Displacement Project contributes insights into displacement risk, adding an additional layer to the analysis.
 **Collection Method:** The Urban Displacement Project employs a combination of geospatial analysis, demographic data, and housing market indicators to estimate displacement risk. Their model considers factors such as rent increases, income changes, and neighborhood characteristics.
  
 **Source:** GitHub Repository
-**Source Link:** [](https://github.com/urban-displacement/).
+**Source Link:** [https://github.com/urban-displacement/](https://github.com/urban-displacement/).
 **Description:** The GitHub repository of the Urban Displacement Project provides open-source tools and datasets.
 **Collection Method:** The Urban Displacement Project adopts a collaborative approach, allowing researchers and developers to access and contribute to their tools and datasets. This fosters transparency, peer review, and continuous improvement.
  
 **Source:** U.S. Census Bureau
-**Source Link:** [](https://data.census.gov/profile/California?g=040XX00US06).
-**Source Link 2:**  [](https://data.census.gov/profile/Los_Angeles_County,_California?g=050XX00US06037)
+**Source Link:** [https://data.census.gov/profile/California?g=040XX00US06](https://data.census.gov/profile/California?g=040XX00US06).
+**Source Link 2:**  [https://data.census.gov/profile/Los_Angeles_County,_California?g=050XX00US06037](https://data.census.gov/profile/Los_Angeles_County,_California?g=050XX00US06037)
 **Description:** The U.S. Census Bureau provides a wealth of demographic and socio-economic data at various geographical levels, including county and city levels.
 **Collection Method:** The U.S. Census Bureau conducts extensive surveys and collects data from various sources to provide comprehensive demographic, economic, and housing information. This data is regularly updated and covers a wide range of factors relevant to the study.
  
 **Source:** MyNeighborhoodData
-**Source Link:** [](https://map.myneighborhooddata.org/?pa=75).
+**Source Link:** [https://map.myneighborhooddata.org/?pa=75](https://map.myneighborhooddata.org/?pa=75).
 **Description:** MyNeighborhoodData offers localized data on various social determinants of health, providing insights into community well-being.
 **Collection Method:** MyNeighborhoodData aggregates data from public health agencies, government sources, and community organizations. It offers a platform for users to explore and analyze neighborhood-level data.
  
