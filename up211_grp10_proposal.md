@@ -15,7 +15,7 @@ We also plan to look at a 10-year period—while specifically looking at the cha
 
 ## Data Sources 
 **Source:** Eviction Lab
-**Source Link:** - [](https://data-downloads.evictionlab.org/#demographics-of-eviction-data/).
+**Source Link:** -[https://data-downloads.evictionlab.org/#demographics-of-eviction-data/](https://data-downloads.evictionlab.org/#demographics-of-eviction-data/).
 **Description:** The Eviction Lab provides a comprehensive dataset on eviction demographics, encompassing information such as eviction rates, demographic details of affected populations, and socio-economic factors.
 **Collection Method:** The Eviction Lab aggregates data from various sources, including court records, government agencies, and other publicly available datasets. The data is then cleaned, processed, and standardized to provide a cohesive and reliable dataset.
  
