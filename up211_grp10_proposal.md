@@ -45,7 +45,7 @@ This multifaceted approach with data collection methodology ensures a robust fou
  
 
 ## Methodology
-![image](up211_group10/up221diagram.jpg)
+![image](data/up221diagram.jpg)
 
 ## Conclusion
 Our research, focused on eviction in Los Angeles County, aims to reveal insights into recent eviction trends over the last 10 years. By exploring spatial and temporal dimensions, we seek to conduct a risk assessment of vulnerable populations and regions, track trends from pre-pandemic to post-pandemic periods, and uncover correlations between eviction rates, gentrification, racialized policies, and social inequalities. Our approach integrates geospatial analysis and demographic insights with a goal of identifying intervention opportunities. We aim to research policy analysis regarding housing displacement through eviction data. After completing our analysis we hope to suggest new interventions where policies can better focus on equitable housing developments. Through our comprehensive spatial data analysis and demographic variables that we will analyze we hope to uncover impactful conclusions to evictions across Los Angeles County.  
