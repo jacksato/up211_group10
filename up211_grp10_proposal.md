@@ -1,4 +1,6 @@
 # Eviction in LA County 
+**Members**: 
+Kristal Ombogo, Jack Fukushima, Daisy Mugodzeri, Roberto Diaz
 
 ## Research Question
 We plan to carry an analysis of the City of Los Angeles eviction rates over time and across neighborhoods so we can understand some of the crucial temporospatial patterns of evictions across different demographics. An analysis of temporal and spatial variation in eviction rates we try to answer the question: How do eviction rates vary across temporal periods within Los Angeles County? What spatial patterns emerge from these eviction rates and how they changed over time for instance a look from 2010 to 2018 period, the pandemic period, and post pandemic period? How have eviction rates changed for specific demographic groups and communities (White, Hispanic, Black, Asian)? How do eviction trends intersect with prevailing understandings of racism, classism, and other forms of inequality? By addressing these research questions, we hope to contribute insights into the temporospatial dynamics of eviction.
