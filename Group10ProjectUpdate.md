@@ -1,11 +1,11 @@
 Mini Assignment 2
 =================
 
-Project title: Spatial Exploration of Eviction in LA County
+**Project title**: Spatial Exploration of Eviction in LA County
 
-Group Name: Eviction Resisters
+**Group Name**: Eviction Resisters
 
-Roles
+## Roles
 
 Give each team member a title, and define what role each team member will play, and how each person plans to contribute to the project. While this may be subject to change, it is a good idea to define this early in the project to clarify "who is doing what."
 
@@ -21,9 +21,9 @@ Kristal:
 
 -temporal analysis to see whether renter population is decreasing/increasing over time
 
-Ideas to split data analysis:
+## Ideas to split data analysis:
 
-Part 1: Overall spatial analysis of LA County
+### Part 1: Overall spatial analysis of LA County
 
 1.  Homeownership (Kristal)
 
@@ -35,38 +35,26 @@ California consistently has the lowest eviction rates of the 10 most populous st
 
 The top three zip codes in which eviction filings were received were 90028 Hollywood with 5156 notices, 90036 Fairfax with 3840 notices, and 91367 Woodland Hills with 2954 notices. The zip codes with least eviction numbers submitted include zip code 91214 La Crescenta, 90302 Inglewood, with a count of 1 each, 91504 Burbank, 90717 Lomita with a count of 2 each, 90073 Los Angeles count of 3, 90402 Santa Monica, 90067 Century City with a count of 5 each (lacity, 2024).
 
-Part 2: Comparing LA County 
+### Part 2: Comparing LA County 
 
 1.  One county with low eviction rates (Jack)
 
 2.  One county with high eviction rates (Roberto)
 
-Variables to compare: 
+#### Variables to compare: 
 
--Rent as a percentage of income
+- Rent as a percentage of income
+- Employment status
+- Household size
+- Median income
+- Education Level
+- Race
 
--Employment status
+## Status update 
+- Mood is overwhelmed
+- Consistent communication, weekly meetings are working
 
--Household size
-
--Median income
-
--Education Level
-
--Race
-
-Status update 
-
-Report on the general mood of the team, and provide details as to what is working, and what is not.
-
--Mood is overwhelmed
-
--Consistent communication, weekly meetings are working
-
-Data update
-
-Provide a short narrative on where you are with the data sources you will incorporate in your project. Provide links as necessary.
-
+## Data update
 The goal is to merge data from different data sources that is applicable to the project. We are still working on merging the data and variables that are crucial to analyzing our case study of Los Angeles county. We have decided to include data focusing on micro scale level so we can compare variables across neighborhoods. Also, we are working on data wrangling and geo-coding to ensure we are working with clean/complete datasets.
 
 Evictions- <https://evictions.lacontroller.app/>
@@ -81,32 +69,18 @@ Los Angeles Department of Housing-
 
 <https://housing2.lacity.org/residents/renters/eviction-notices-filed>
 
-Concerns (Kristal)
-
-There should be a lot to be concerned about at this phase of the project. List those concerns and classify them as "Major concerns" and/or "Minor concerns."
-
-Major concerns:
-
+## Concerns (Kristal)
+### Major concerns:
 -Integrating/combining the data
-
 -Finding recent and relevant data (2018-2023)
-
 -Keeping our scope feasible
-
 -finding something to focus on, needing more direction
-
 -Conceptualizing data analysis ideas to coding/Python
-
 -Time constraints
 
-Minor concerns:
-
+### Minor concerns:
 -Working with Python
-
 -turning ideas into tangible data analysis
-
 -understanding libraries
-
 -understanding language/errors (specifically with pushing to GitHub)
-
 -Ensuring an even workload
