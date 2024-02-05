@@ -1,4 +1,4 @@
-Mini Assignment 2
+Group 10 Project Update
 =================
 
 **Project title**: Spatial Exploration of Eviction in LA County
