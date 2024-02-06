@@ -7,8 +7,6 @@ Group 10 Project Update
 
 ## Roles
 
-Give each team member a title, and define what role each team member will play, and how each person plans to contribute to the project. While this may be subject to change, it is a good idea to define this early in the project to clarify "who is doing what."
-
 ### Jack:
 -Project lead/submitting and reviewing 
 
