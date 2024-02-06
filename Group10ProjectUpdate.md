@@ -11,7 +11,9 @@ Give each team member a title, and define what role each team member will play, 
 
 #### Jack:
 -Project lead/submitting and reviewing 
+
 -Comparing demographic/sociological data in one county in LA with low eviction rates
+
 -Variables to compare: Rent as a percentage of income; Employment status; Household size; Median income; Education Level; Race
 
 #### Kristal:
@@ -30,6 +32,7 @@ The top three zip codes in which eviction filings were received were 90028 Holly
 
 #### Roberto
 -Comparing demographic/sociological data in one county in LA with high eviction rates. 
+
 -Variables to compare: Rent as a percentage of income; Employment status; Household size; Median income; Education Level; Race
 
 
@@ -49,21 +52,29 @@ Neighborhood Boundaries- [City of LA Boundaries ](https://geohub.lacity.org/dat
 <https://la.myneighborhooddata.org/2022/12/ellis-act-evictions/>
 
 Los Angeles Department of Housing-
-
 <https://housing2.lacity.org/residents/renters/eviction-notices-filed>
 
 ## Concerns
 ### Major concerns:
 -Integrating/combining the data
+
 -Finding recent and relevant data (2018-2023)
+
 -Keeping our scope feasible
+
 -finding something to focus on, needing more direction
+
 -Conceptualizing data analysis ideas to coding/Python
+
 -Time constraints
 
 ### Minor concerns:
 -Working with Python
+
 -turning ideas into tangible data analysis
+
 -understanding libraries
+
 -understanding language/errors (specifically with pushing to GitHub)
+
 -Ensuring an even workload
